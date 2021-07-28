@@ -1,4 +1,4 @@
-# Logiciel_Gestion-Hotel_Demo
+# Logiciel de Gestion d'Hôtel
 Demo du Logiciel d'Hotel (contact:malyo20.daiki@gmail.com)
 
 ##AUTHENTIFICATION
